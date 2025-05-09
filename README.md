@@ -7,8 +7,6 @@
 
 - 🤝 I’m focusing on **Java and Spring Boot**
 
-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 👨‍💻 All of my projects are available at [https://github.com/garg-saumya20](https://github.com/garg-saumya20)
 
 - 💬 Ask me about **Java,Spring Boot, Apache Kafka,APIs and more.**
